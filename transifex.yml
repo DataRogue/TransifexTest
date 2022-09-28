@@ -4,12 +4,12 @@ git:
     file_format: TXT
     source_file_extension: txt
     source_language: zh-Hans
-    source_file_dir: locale/DirTest
+    source_file_dir: locale/
     translation_files_expression: 'translations/<lang>'
 
   - filter_type: dir
     file_format: KEYVALUEJSON
     source_file_extension: json
     source_language: zh-Hans
-    source_file_dir: locale/DirTest
+    source_file_dir: locale/
     translation_files_expression: 'translations/<lang>'
