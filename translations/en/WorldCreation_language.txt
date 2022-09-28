@@ -1,4 +1,4 @@
-Lifespan
+Test
 The length of life span of all characters in the game. \n<color=#E3C66DFF> (The length of a character's life span does not affect the game's difficulty rating.) </color>
 Short
 Medium
