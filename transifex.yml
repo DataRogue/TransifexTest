@@ -3,9 +3,13 @@ git:
   - filter_type: dir
     file_format: STRINGS
     source_file_extension: strings
-    translation_files_expression: 'Translations/<lang>'
+    source_language: en
+    source_file_dir: locale/DirTest
+    translation_files_expression: 'translations/<lang>'
 
   - filter_type: dir
     file_format: KEYVALUEJSON
     source_file_extension: json
-    translation_files_expression: 'Translations/<lang>'
+    source_language: en
+    source_file_dir: locale/DirTest
+    translation_files_expression: 'translations/<lang>'
