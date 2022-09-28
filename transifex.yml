@@ -1,8 +1,8 @@
 git:
   filters:
   - filter_type: dir
-    file_format: STRINGS
-    source_file_extension: strings
+    file_format: TXT
+    source_file_extension: txt
     source_language: en
     source_file_dir: locale/DirTest
     translation_files_expression: 'translations/<lang>'
